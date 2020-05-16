@@ -72,3 +72,70 @@ body {
 	width: 1000px;
 	text-align: center;
 }
+.d-1 {
+	border: none;
+	line-height: 25px;
+	border-bottom-left-radius: 15px;
+	text-align: center;
+	border-top-left-radius: 10px;
+	width: 100px;
+}
+.text1 {
+	width: 60%;
+	height: auto;
+	border: none;
+	line-height: 25px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	color: rgba(75,75,75,1.00);
+	text-indent: 10px;
+}
+.text2 {
+	border: none;
+	line-height: 25px;
+	width: 35%;
+}
+.mall1 {
+	width: 5%;
+	border: none;
+	line-height: 25px;
+}
+.mall2 {
+	width: 20%;
+	line-height: 25px;
+	height: 27px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.darea {
+	text-align: center;
+	border: none;
+	height: 100px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	float: left;
+}
+.areatext {
+	width: 52%;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	color: #333333;
+	text-indent: 10px;
+	float: left;
+	border: none;
+	height: 98px;
+}
+.xx {
+	width: 30%;
+	float: left;
+	margin-left: 150px;
+	background-color: #6BB3CC;
+	line-height: normal;
+	font-size: 25px;
+	border-radius: 10;
+	border: none;
+	font-weight: 18;
+}
+.xx1 {
+	background-color: #3889A5;
+}
